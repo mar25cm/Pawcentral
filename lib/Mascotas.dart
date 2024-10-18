@@ -56,7 +56,7 @@ class Mascotas extends StatelessWidget {
                           child: Container(
                             margin: const EdgeInsets.all(0),
                             padding: const EdgeInsets.all(0),
-                            width: MediaQuery.of(context).size.width * 0,3,
+                            width: MediaQuery.of(context).size.width * 0.3,
                             height: MediaQuery.of(context).size.height * 0.3,
                             decoration: BoxDecoration(
                               color: const Color(0x00000000),
